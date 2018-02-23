@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/testingtime -Dhttp.port=${PORT}
+web: target/universal/stage/bin/red-crispy-unicorn -Dhttp.port=${PORT}

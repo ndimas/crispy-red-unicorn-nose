@@ -1,4 +1,4 @@
-name := """play-java-rest-api-example"""
+name := """red-crispy-unicorn"""
 
 version := "2.6.x"
 
